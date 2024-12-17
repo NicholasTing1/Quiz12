@@ -1,0 +1,57 @@
+header{
+    height: 100px;
+    width:100%;
+    background-color: aqua;
+    }
+    nav{
+    height: 20px;
+    border-width: 100px;
+    background-color: blue;
+    }
+    main{
+        height: 50px;
+        border-width: 50px;
+        background-color: brown;
+    }
+    footer{
+        height: 50px;
+        border: 50px;
+        background-color: bisque;
+    }
+    body {     font-family: Arial, sans-serif; ... x Ting,Tinchi Nicholas
+    11:59
+    Ting,Tinchi Nicholas
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+     
+    .container {
+        background-color: #ffffff;
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        width: 300px;
+        border-radius: 8px;
+    }
+     
+    button {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+     
+    button:hover {
+        background-color: #45a049;
+     
+    
+    
